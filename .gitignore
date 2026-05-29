@@ -1,0 +1,87 @@
+# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# ChromaDB
+chroma_db/
+
+# Model Checkpoints
+*.ckpt
+*.pth
+
+# Large Model Files
+*.bin
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Build
+build/
+dist/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Temporary Files
+temp/
+tmp/
+
+# Cache
+.cache/
+
+# Node
+node_modules/
+
+# Secrets
+*.pem
+*.key
+*.crt
+
+# Uploaded Files
+uploads/
+
+# Runtime Files
+*.pid
+
+# Testing
+.pytest_cache/
+
+# Mypy
+.mypy_cache/
+
+# Ruff
+.ruff_cache/
+
+# Generated Outputs
+outputs/
+reports/
+generated/
